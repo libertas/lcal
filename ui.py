@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'lcal.ui'
 #
-# Created: Tue Apr 30 12:50:35 2013
+# Created: Tue Apr 30 13:04:10 2013
 #      by: PyQt4 UI code generator 4.9.3
 #
 # WARNING! All changes made in this file will be lost!
@@ -18,7 +18,7 @@ class Ui_Window(object):
     def setupUi(self, Window):
         Window.setObjectName(_fromUtf8("Window"))
         Window.resize(407, 349)
-        Window.setMinimumSize(QtCore.QSize(0, 349))
+        Window.setMinimumSize(QtCore.QSize(407, 349))
         Window.setMaximumSize(QtCore.QSize(407, 349))
         self.expression = QtGui.QLineEdit(Window)
         self.expression.setGeometry(QtCore.QRect(10, 10, 391, 51))
